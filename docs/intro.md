@@ -1,47 +1,56 @@
 ---
 sidebar_position: 1
+slug: /
+title: Introduction
 ---
 
-# Tutorial Intro
+# Welcome to DeepBook Rust SDK!
 
-Let's discover **DeepBook Rust SDK in less than 5 minutes**.
+Welcome to the DeepBook Rust SDK documentation! This guide will help you get started with the DeepBook protocol on the Sui blockchain using the Rust SDK.
+The **DeepBook Rust SDK** is your gateway to seamlessly interact with the DeepBook protocol on the Sui blockchain. Whether you're building decentralized exchanges, managing account balances, or creating complex trading strategies, this SDK empowers Rust developers to bring their ideas to life with ease.
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## What You’ll Find Here
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This documentation is designed to help you:
+- **Quickly Get Started**: Learn the basics and set up your environment.
+- **Dive Into Examples**: Explore step-by-step guides for common tasks like placing orders, checking balances, and more.
+- **Understand the API**: Reference comprehensive explanations of SDK methods and data structures.
 
-### What you'll need
+No matter your level of familiarity with the Sui blockchain or Rust, this documentation will guide you in using the DeepBook SDK effectively.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## How to Navigate
 
-Generate a new Docusaurus site using the **classic template**.
+The documentation is organized into intuitive sections:
 
-The classic template will automatically be added to your project after you run the command:
+### [Get Started](./get-started/congratulations.md)
+Kick off your journey with step-by-step tutorials for setting up your project and executing your first commands with the SDK.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Examples
+Explore hands-on guides to master key functionalities:
+- **[Create a Balance Manager](./get-started/create-a-balance-manager.md)**
+- **[Deposit Funds into a Manager](./get-started/deposit-into-manager.md)**
+- **[Check Manager Balances](./get-started/check-manager-balance.md)**
+- **[Place a Limit Order](./get-started/place-limit-order.mdx)**
+- **[Fetch Open Orders](./get-started/account-open-orders.md)**
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Each example provides in-depth explanations and code snippets to help you understand and integrate features into your applications.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## Why Choose the DeepBook Rust SDK?
 
-Run the development server:
+- **Comprehensive API Coverage**: Access all major features of the DeepBook protocol, including balance management, order placement, and transaction queries.
+- **Rust Optimized**: Leverage the power of Rust’s type safety and performance in blockchain development.
+- **Developer-Friendly**: Simplified workflows and clear documentation reduce development time and complexity.
 
-```bash
-cd my-website
-npm run start
-```
+---
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Start Building Today
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+To get started, follow the [Get Started Guide](./get-started/congratulations.md) or jump straight into [Examples](./get-started/create-a-balance-manager.md). 
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Ready to build the next big DeFi application? Let’s get started with DeepBook!
