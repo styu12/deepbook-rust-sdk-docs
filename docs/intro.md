@@ -26,7 +26,7 @@ No matter your level of familiarity with the Sui blockchain or Rust, this docume
 
 The documentation is organized into intuitive sections:
 
-### [Get Started](./get-started/congratulations.md)
+### [Get Started](./category/get-started)
 Kick off your journey with step-by-step tutorials for setting up your project and executing your first commands with the SDK.
 
 ### Examples
@@ -34,7 +34,7 @@ Explore hands-on guides to master key functionalities:
 - **[Create a Balance Manager](./get-started/create-a-balance-manager.md)**
 - **[Deposit Funds into a Manager](./get-started/deposit-into-manager.md)**
 - **[Check Manager Balances](./get-started/check-manager-balance.md)**
-- **[Place a Limit Order](./get-started/place-limit-order.mdx)**
+- **[Place a Limit Order](./get-started/place-limit-order.md)**
 - **[Fetch Open Orders](./get-started/account-open-orders.md)**
 
 Each example provides in-depth explanations and code snippets to help you understand and integrate features into your applications.
@@ -51,6 +51,6 @@ Each example provides in-depth explanations and code snippets to help you unders
 
 ## Start Building Today
 
-To get started, follow the [Get Started Guide](./get-started/congratulations.md) or jump straight into [Examples](./get-started/create-a-balance-manager.md). 
+To get started, follow the [Get Started Guide](./category/get-started) or jump straight into [Examples](./get-started/create-a-balance-manager.md). 
 
 Ready to build the next big DeFi application? Let’s get started with DeepBook!
